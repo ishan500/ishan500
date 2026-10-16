@@ -1,5 +1,5 @@
-👋 Hey everyone, I’m Ishan Singh a final year Msc.data science student of  Symbiosis International University (SIU).Before this worked with Neilseniq for 1.3 years as a Junior Business Analyst.
-I’m an aspiring Associate Product Manager (APM) and Business Analyst, actively seeking opportunities in data science , business nalyst and product management .
+👋 Hey everyone, I’m Ishan Singh a final year Msc.data science student of  Symbiosis International University (SIU).Before my masters I worked with Neilseniq for 1.3 years as a Junior Business Analyst.
+I’m an aspiring Associate Product Manager (APM) and Business Analyst actively seeking opportunities in data science , business nalyst and product management .
 
 Portfolio -: https://ishan-portfolio-eosin.vercel.app/
 
@@ -17,6 +17,9 @@ Key Skills:
 	•	Fast Api
 	•	Business Analysis 
 	•	Product Management
-	•	Data Analysis .
+	•	Data Analysis 
+	•	Tabeleu 
+
+	
 	
   -- For queries and collabrations contact me on ishan2001singh@gmail.com
